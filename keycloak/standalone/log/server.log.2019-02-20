@@ -1,0 +1,3 @@
+2019-02-20 15:18:47,007 WARN  [org.keycloak.events] (default task-7) type=LOGIN_ERROR, realmId=demo, clientId=cnp-demo, userId=null, ipAddress=103.60.214.202, error=invalid_redirect_uri, redirect_uri=http://35.237.68.84:3333/
+2019-02-20 15:22:27,805 WARN  [org.keycloak.services] (default task-14) KC-SERVICES0091: Request is missing scope 'openid' so it's not treated as OIDC, but just pure OAuth2 request.
+2019-02-20 15:22:31,625 WARN  [org.keycloak.events] (default task-6) type=LOGIN_ERROR, realmId=demo, clientId=cnp-demo, userId=null, ipAddress=103.60.214.202, error=invalid_redirect_uri, redirect_uri=http://35.237.68.84:3000/

@@ -1,0 +1,3 @@
+2018-10-26 13:52:02,534 WARN  [org.keycloak.events] (default task-3) type=LOGIN_ERROR, realmId=demo, clientId=cnp-demo, userId=0aa47ef9-47dc-4878-bed5-7470a6d9cffe, ipAddress=127.0.0.1, error=invalid_user_credentials, auth_method=openid-connect, auth_type=code, redirect_uri=http://localhost:3000/, code_id=1e9f1c17-8de1-4314-8bc6-9d50ef57510a, username=testadmin
+2018-10-26 14:34:44,765 WARN  [org.keycloak.events] (default task-14) type=LOGIN_ERROR, realmId=demo, clientId=null, userId=null, ipAddress=127.0.0.1, error=expired_code, restart_after_timeout=true
+2018-10-26 17:43:18,051 WARN  [org.keycloak.events] (default task-22) type=LOGIN_ERROR, realmId=demo, clientId=null, userId=null, ipAddress=127.0.0.1, error=expired_code, restart_after_timeout=true

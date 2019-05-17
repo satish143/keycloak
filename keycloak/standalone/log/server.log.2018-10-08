@@ -1,0 +1,1 @@
+2018-10-08 19:19:19,980 WARN  [org.keycloak.events] (default task-18) type=LOGIN_ERROR, realmId=master, clientId=null, userId=null, ipAddress=127.0.0.1, error=expired_code, restart_after_timeout=true

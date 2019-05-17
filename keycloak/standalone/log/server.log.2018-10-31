@@ -1,0 +1,1 @@
+2018-10-31 20:37:58,743 WARN  [org.keycloak.events] (default task-17) type=CODE_TO_TOKEN_ERROR, realmId=demo, clientId=cnp-demo, userId=null, ipAddress=127.0.0.1, error=expired_code, grant_type=authorization_code, code_id=30d3ef96-b2a5-4d33-a3a1-b04ca48cf13d, client_auth_method=client-secret

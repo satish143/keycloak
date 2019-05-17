@@ -1,0 +1,2 @@
+2018-10-05 14:39:46,847 WARN  [org.keycloak.events] (default task-13) type=LOGIN_ERROR, realmId=demo, clientId=null, userId=null, ipAddress=127.0.0.1, error=expired_code, restart_after_timeout=true
+2018-10-05 18:43:08,181 WARN  [org.keycloak.events] (default task-27) type=LOGIN_ERROR, realmId=demo, clientId=null, userId=null, ipAddress=127.0.0.1, error=expired_code, restart_after_timeout=true

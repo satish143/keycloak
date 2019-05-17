@@ -1,0 +1,1 @@
+2018-09-07 14:44:23,753 WARN  [org.keycloak.events] (default task-27) type=LOGIN_ERROR, realmId=demo, clientId=cnp-demo, userId=null, ipAddress=127.0.0.1, error=invalid_redirect_uri, redirect_uri=http://localhost:3001/?auth_callback=1

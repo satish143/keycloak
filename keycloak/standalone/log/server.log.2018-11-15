@@ -1,0 +1,4 @@
+2018-11-15 13:14:44,272 WARN  [org.keycloak.events] (default task-16) type=USER_INFO_REQUEST_ERROR, realmId=demo, clientId=null, userId=null, ipAddress=127.0.0.1, error=invalid_token, auth_method=validate_access_token
+2018-11-15 13:33:18,492 WARN  [org.keycloak.events] (default task-6) type=LOGIN_ERROR, realmId=demo, clientId=null, userId=null, ipAddress=127.0.0.1, error=expired_code, restart_after_timeout=true
+2018-11-15 17:06:43,253 WARN  [org.keycloak.events] (default task-11) type=LOGIN_ERROR, realmId=demo, clientId=null, userId=null, ipAddress=127.0.0.1, error=expired_code, restart_after_timeout=true
+2018-11-15 17:17:27,438 WARN  [org.keycloak.events] (default task-14) type=USER_INFO_REQUEST_ERROR, realmId=demo, clientId=null, userId=null, ipAddress=127.0.0.1, error=invalid_token, auth_method=validate_access_token

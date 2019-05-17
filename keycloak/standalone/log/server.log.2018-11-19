@@ -1,0 +1,1 @@
+2018-11-19 16:52:05,174 WARN  [org.keycloak.events] (default task-6) type=LOGIN_ERROR, realmId=demo, clientId=cnp-demo, userId=null, ipAddress=127.0.0.1, error=invalid_redirect_uri, redirect_uri=http://192.168.56.1:3000/
